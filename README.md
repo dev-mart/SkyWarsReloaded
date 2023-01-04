@@ -5,7 +5,7 @@ _Created by Devmart_
 ## About SkyWarsReloaded
 SkyWarsReloaded is with a combined total of 450.000 downloads Spigot's biggest and most popular Skywars plugin. 
 Skywars is a multiplayer minigame where each player starts off on a separate island that is floating in the Void.
-Player try to battle each other like in Player vs. Player (PvP). The main goal is to be the last person or team alive to win.
+Player try to battle each other like in Player vs. Player (PvP). The main goal is to be the last player or team alive to win.
 
 ## Issues, bug reports, feature requests
 If you experience a bug or want to request a new feature, please create an appropriate [GitHub Issue](https://github.com/dev-mart/SkyWarsReloaded/issues).
