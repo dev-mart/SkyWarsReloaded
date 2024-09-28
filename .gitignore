@@ -2,4 +2,5 @@
 */test/
 *.iml
 /target/
+.run/
 .flattened-pom.xml

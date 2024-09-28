@@ -58,23 +58,6 @@
                     <target>11</target>
                 </configuration>
             </plugin>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-deploy-plugin</artifactId>
-                <version>2.8.1</version>
-                <configuration>
-                    <skip>true</skip>
-                </configuration>
-            </plugin>
         </plugins>
     </build>
-
-    <!--    <distributionManagement>
-            <repository>
-                <id>swr-nexus</id>
-                <name>SkywarsReloaded Nexus</name>
-                <url>null</url>
-            </repository>
-        </distributionManagement>-->
-
 </project>
